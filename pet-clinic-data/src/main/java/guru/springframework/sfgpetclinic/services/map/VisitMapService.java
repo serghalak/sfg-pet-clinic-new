@@ -1,9 +1,6 @@
 package guru.springframework.sfgpetclinic.services.map;
 
 
-import com.petclinic.drdolittle.model.Visit;
-import com.petclinic.drdolittle.repositories.VisitRepository;
-import com.petclinic.drdolittle.services.VisitService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 

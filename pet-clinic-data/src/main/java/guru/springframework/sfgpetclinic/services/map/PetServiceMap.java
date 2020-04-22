@@ -1,7 +1,8 @@
 package guru.springframework.sfgpetclinic.services.map;
 
-import com.petclinic.drdolittle.model.Pet;
-import com.petclinic.drdolittle.services.PetService;
+
+import guru.springframework.sfgpetclinic.model.Pet;
+import guru.springframework.sfgpetclinic.services.PetService;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
